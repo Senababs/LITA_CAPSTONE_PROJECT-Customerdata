@@ -43,9 +43,9 @@ Dataset was provided by Incubator hub instructors.
  
                 = (Subscription end - Subscription start)
        - Pivot table was used analyze customer data to find subscription patterns: 
-       - Determine Average subscription duration
-       - Determine most popular subscription type
-       - Total revenue generated.              
+           - Determine Average subscription duration
+           - Determine most popular subscription type
+           - Total revenue generated.              
 
       - Structured Query Language (SQL)
           - The dataset was converted to Comma seperated values to load into the SQL server
