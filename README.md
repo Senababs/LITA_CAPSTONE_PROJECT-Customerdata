@@ -100,4 +100,5 @@ Dataset was provided by Incubator hub instructors.
      - Conduct In-Depth User Research: Gather qualitative feedback to understand the motivations behind subscription choices and identify opportunities for improvement.
 
 
- 
+  ## Conclusion ##
+This analysis underscores the significant influence of factors like region, income, and subscription type on user behavior. By strategically implementing the recommended actions, It can project a potential increase in overall revenue and  active subscriptions. Prioritizing efforts in the each region with tailored offers for the each Subscription Type and optimizing pricing strategies across all regions, will be instrumental in achieving these goals.
