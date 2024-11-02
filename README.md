@@ -1,3 +1,4 @@
+![20241027_183202](https://github.com/user-attachments/assets/cce35369-3fe8-45a3-abbf-8159f9523ea9)
 # LITA_CAPSTONE_PROJECT-Customerdata
 
 ## Project Title: Customer Data
@@ -80,9 +81,23 @@ Dataset was provided by Incubator hub instructors.
            - The dashboard visualizes key customer segments, cancellations and subscription trends.
 ## Analytical Result
    - Data Visualization
+    ![20241027_183253](https://github.com/user-attachments/assets/bb41935a-16a0-4a36-bf95-552e854e1244)
+
+   ![20241027_183202](https://github.com/user-attachments/assets/3d4aac23-47ee-4c74-a048-5ec8fa235e65)
+
+   - Data Observation
      
+      - *Subscription Pattern*: From the analysis the 'basic' subscription type has a higher number of subscribers and total revenue, in comparism to the other subscription type it has a higher number of subscription renewal making it the most popular subscription type. The 'basic' plan's popularity can be attributed to its attractive pricing, suitable features, or effective marketing strategies.
+        
+      - *Regional Perfomance*: The 'East' region is observed to have the highest number of subscribers, active subscription and total revenue. However, there is lack of subscription type diversification among the subscribers. For instance: Premium subscription is popular in the South, Standard subscription is popular in the West and Basic subscription type in both East and North region. This might be due to factors like income levels, awareness campaigns, or regional marketing initiatives.
+        
+      - *Subscription period*: Most of subscription are active for a period of 365 days (1 year), rarely is it beyond that duration.
 
-
+  - Key Recommendations
+     - Leverage the Basic Plan's Success: Continue to refine and promote the 'basic' plan, ensuring it remains competitive and appealing to a wide audience.
+     - Diversify Offerings in the East: Implement targeted marketing campaigns to introduce premium and standard plans to users in the 'East' region, highlighting th   additional benefits they offer.
+     - Explore Longer-Term Subscriptions: Offer attractive incentives, such as discounts or exclusive features, to encourage users to opt for longer-term subscriptions.
+     - Conduct In-Depth User Research: Gather qualitative feedback to understand the motivations behind subscription choices and identify opportunities for improvement.
 
 
  
